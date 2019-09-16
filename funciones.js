@@ -1,3 +1,4 @@
+'use strict';
 // Funcion basica
 function funcionBasica(){
     console.log('Funcion basica');
